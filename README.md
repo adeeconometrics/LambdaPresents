@@ -1,1 +1,1 @@
-Lambda Presentation using Reveal.JS + Jekyll 
+Lambda Presentation using `Reveal.js` + `Jekyll` 
