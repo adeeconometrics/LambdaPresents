@@ -1,17 +1,17 @@
 ---
-slide: 07-summary-of-results
-font-size: "28"
+slide: 09-summary-of-results
 ---
 
-|   Respondent | Type   |   MD |   PD |   TD |   P |   E |   F |   Personal WWL |
-|--------------|--------|------|------|------|-----|-----|-----|----------------|
-|            1 | D      |   10 |   10 |   10 |  50 |  20 |  10 |         18.33  |
-|            2 | ND     |   50 |   50 |    5 |   0 |   5 |   5 |         11.66  |
-|            3 | ND     |    0 |    0 |    0 |   0 |   0 |   0 |          0     |
-|            4 | D      |    0 |    0 |    0 |   0 |   5 |   0 |          0.83  |
-|            5 | D      |    0 |    0 |    0 |   0 |   0 |   0 |          0     |
-|            6 | ND     |   20 |   10 |   10 |  10 |  10 |  10 |         11.66  |
-|            7 | ND     |   60 |   35 |   50 |   0 |   0 |   0 |         24.166 |
-|            8 | ND     |    0 |    0 |    0 |   0 |   0 |   0 |          0     |
-|            9 | D      |   15 |   10 |    0 |   0 |   0 |   0 |          4.166 |
-|           10 | D      |   10 |   30 |    0 |  10 |  15 |   0 |         10.833 |
+<div style="text-align: left">
+    <mark style="background-color: #ab2333!important"> 
+        Significant Difference of Time and Satisfaction Score for the Quasi-Experimental Group
+    </mark> 
+</div>
+
+<br>
+
+|                        |   Pre- and Post-time diff. |   Pre- and Post-Q1 diff. |   Pre- and Post-Q2 diff. |   Pre- and Post-Q3 diff. |   Pre- and Post-Q4 diff. |
+|------------------------|----------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Z                      |                     -2.023 |                   -2.06  |                   -2.06  |                   -1.841 |                   -2.06  |
+| Asymp. Sig. (2-tailed) |                      0.043 |                    0.039 |                    0.039 |                    0.66  |                    0.039 |
+
