@@ -2,4 +2,7 @@
 slide: 07-methods 
 ---
 
-![SystemDiagram](images/SystemDiagramNew.png)
+<img src="images/SystemDiagramNew.png" alt="SystemDesign" width="500"/>
+
+___
+Activity Diagram
