@@ -7,7 +7,7 @@ reveal:
   transition: "slide" # none/fade/slide/convex/concave/zoom
   theme: "blood" # beige/blood/league/moon/night/serif/simple/sky/solarized/white
   number: true
-  numberType: "c" # "h.v" / "h/v" / "c/t"
+  numberType: "h.v" # "h.v" / "h/v" / "c/t"
 
 # Slides
 collections:
