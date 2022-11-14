@@ -1,0 +1,19 @@
+<div style="text-align: left">
+    <mark style="background-color: #ab2333!important"> 
+        Backpropagation
+    </mark> 
+</div>
+<hr />
+
+<ol>
+  <li>Initialize weights from a random source $w \sim \mathcal{X}$</li>
+  <li>Compute the loss in $\mathcal{L}(\vec{w}^{(l)}, \vec{y})$.</li>
+  <li>For each layer:
+    <ol>
+      <li>Compute gradient with respect to previous layer $\nabla_{a^l}\mathcal{L}(\vec{w}^{(l)}, \vec{y})$.</li>
+      <li>Find the most sensitive node with respect to the input.</li>
+      <li>Re-initialize initial weights $w_1$ parameter</li>
+    </ol>
+  </li>
+  <li>Repeat until $\min \mathcal{L}(\vec{w}, \vec{y})$.</li>
+</ol>
