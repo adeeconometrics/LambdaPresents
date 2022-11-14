@@ -2,4 +2,4 @@
 slide: 07-methods 
 ---
 
-![SystemDiagram](images/SystemDiagramNew2.png)
+![SystemDiagram](images/SystemDiagramNew.png)
