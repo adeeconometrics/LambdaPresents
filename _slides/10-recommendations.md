@@ -1,6 +1,5 @@
 ---
 transition: zoom
-background: "#efb83c"
 ---
 
 
@@ -10,3 +9,8 @@ background: "#efb83c"
     </mark> 
 </div>
 ---
+
+- Find the effects of UEQ results on the learnability of the system
+- Isolate the type of design from a general field to a much more specific one
+- Use a much more comprehensive user experience questionnaire, to provide better data.
+- Try to create a system that could generate output more faster, or limit the output to a certain number of items
