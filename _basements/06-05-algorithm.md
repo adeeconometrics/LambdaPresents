@@ -1,0 +1,34 @@
+---
+slide: 06-algorithm 
+---
+
+<div style="text-align: left">
+    <mark style="background-color: #ab2333!important"> 
+        Denoising Diffusion Probabilistic Model (DDPM)
+    </mark> 
+</div>
+---
+
+<div style="text-align: left">
+Forward Process
+</div>
+
+
+$$
+\begin{aligned}
+	q(x_t | x_{t-1}) &= \mathcal{N}\left(x_t; \mu_t = \sqrt{1-\beta_t}x_{t-1}, \sigma^2_t = \beta_t \textbf{I} \right) \\ 
+	q(x_{1:T}|x_0) &= \prod_{t=1}^T q(x_t | x_{t-1})
+		
+\end{aligned}
+$$
+
+<div style="text-align: left">
+Reverse Process
+</div>
+
+$$
+\begin{aligned}
+	p(x_T) &= \mathcal{N}(x_T; \textbf{0,I}) \\
+	p_{\theta}(x_{t-1} | x_t) &= \mathcal{N}(x_{t-1}; \mu_{\theta}(x_t, t), \sigma^2_t\textbf{I}).
+\end{aligned}
+$$
