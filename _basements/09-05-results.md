@@ -1,5 +1,5 @@
 ---
-slide: 09-summary-of-results
+slide: 08-summary-of-results
 ---
 
 |   Inception Score | Model               |   Year |
