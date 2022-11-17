@@ -1,5 +1,7 @@
 ---
 background: "#efb83c"
+video: "video/Clip.mp4"
+
 ---
 <div style="text-align: left">
 <font size="45">
@@ -8,5 +10,10 @@ background: "#efb83c"
     <!-- </mark> -->
 </font>
 </div>
+
+<video autoplay muted loop id="Clip">
+  <source src="video/Clip.mp4" type="video/mp4">
+</video>
+
 ___
 Amiana, Cortes, Javelosa, & Yapan (2022)
