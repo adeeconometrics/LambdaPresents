@@ -2,7 +2,7 @@
 slide: 07-methods 
 ---
 
-![SystemDiagram](images/SystemDiagram.png)
+![SystemDiagram](images/NetworkArchitecture.png)
 
 ___
 System Design Diagram

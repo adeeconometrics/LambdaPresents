@@ -11,7 +11,11 @@ background: "#efb83c"
 </div>
 ---
 
-1. Develop NLP model for word embedding. 
-2. Develop an autoencoder to compress high-dimensional data into its latent-space representation. 
-3. Develop a diffusion-based model that recovers images from noisy latent representation. 
-4. Optimize the diffusion pipeline for instant high-resolution rendering. 
+<div style="color:black">
+    <ol>
+    <li>Develop NLP model for word embedding.</li>
+    <li>Develop an autoencoder to compress high-dimensional data into its latent-space representation.</li>
+    <li>Develop a diffusion-based model that recovers images from noisy latent representation.</li>
+    <li>Optimize the diffusion pipeline for instant high-resolution rendering.</li>
+    </ol>
+</div>
