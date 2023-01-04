@@ -8,4 +8,4 @@ slide: 08-summary-of-results
     </mark> 
 </div>
 ---
-![WWL](images/WWL.png)
+![WWL](images/WWI.png)

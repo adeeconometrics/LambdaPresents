@@ -9,4 +9,4 @@ background: "#e8e4c9"
     </mark> 
 </div>
 ---
-![WWL](images/UXQR.png)
+![WWL](images/UEQ.png)
