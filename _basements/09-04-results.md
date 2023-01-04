@@ -1,5 +1,6 @@
 ---
 slide: 08-summary-of-results
+background: "#e8e4c9"
 ---
 
 <div style="text-align: left">
