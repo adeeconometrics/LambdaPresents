@@ -4,14 +4,11 @@ slide: 05-conceptual-framework
 
 <div style="text-align: left">
     <mark style="background-color: #ab2333!important"> 
-        Text-To-Image
+        IPO Chart
     </mark> 
 </div>
 
 
-```python
-def text_to_image(text_prompt:str) -> Image: 
-    embeddings = word_embeddings(text_prompt)
-    latents = latent_representation(embeddings)
-    return decode_latent(latents)
-```
+<img src="images/IPO.png" alt="IPO" style="width:200%;">
+
+
