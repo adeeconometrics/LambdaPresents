@@ -13,9 +13,10 @@ background: "#efb83c"
 
 <div style="color:black">
     <ol>
-    <li>Develop NLP model for word embedding.</li>
-    <li>Develop an autoencoder to compress high-dimensional data into its latent-space representation.</li>
-    <li>Develop a diffusion-based model that recovers images from noisy latent representation.</li>
-    <li>Optimize the diffusion pipeline for instant high-resolution rendering.</li>
+    <li>Conduct a preliminary data gathering to provide a clear picture of the current state of the design community in the country.</li>
+    <li>Develop a system that would help designers streamline their design process.</li>
+    <li>Develop an ML pipeline that accepts the following modalities: language, image, and sketch.</li>
+    <li>Optimize the diffusion pipeline for instant high-resolution rendering without incurring too much computing on the server.</li>
+    <li>Conduct a usability test that focuses on identifying both the learnability and efficiency of the system.</li>
     </ol>
 </div>
